@@ -3,9 +3,9 @@ main = "src/index.ts"
 compatibility_date = "2023-12-18"
 
 [vars]
-TURSO_DB_AUTH_TOKEN = ""
-TURSO_DB_URL = ""
-EMAIL_DOMAIN = "vmail.dev"
+TURSO_DB_AUTH_TOKEN = "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJhIjoicnciLCJpYXQiOjE3MTQxMTkxMTYsImlkIjoiMjBmY2ZjN2MtYTE5Ny00ZGUwLWFjZWEtY2NjMzA3ZGQ5YTE4In0.8g29JbtK861Z18bMc1g4qnhRe5XkwFu5Tr8OBtZn3IEWO3sTi_9OnD2jHcmNm3dlClilA37rNg1U7XBN87CIBg"
+TURSO_DB_URL = "libsql://amail-z4r3i.turso.io"
+EMAIL_DOMAIN = "amail.4mir.link"
 
 # [[d1_databases]]
 # binding = "DB"
